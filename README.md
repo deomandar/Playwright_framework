@@ -1,2 +1,8 @@
 # Playwright_framework
-Attempt to learn Playwright Automation
+Following folders and files not present in the repo read the below 
+Notes : .gitignore 
+node_modules/
+/test-results/
+/playwright-report/
+/playwright/.cache/
+
